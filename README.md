@@ -1,2 +1,2 @@
-# privacy
-Pricacy Information
+# Privacy
+Privacy Information
